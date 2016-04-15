@@ -34,6 +34,7 @@ from an early version of the story.  Here are some examples of  appropriate chan
   option, and add a sentence or two to the new "page".
 * Add a couple of options to a current dead-end "page", and add a "page" or link
   to an existing "page" for each option.
+* no more changes
 
 
 ### Directory Structure
@@ -66,6 +67,11 @@ links.)  You can also use `..` to refer to the parent of the current directory i
 Please keep all lines to 120 characters or fewer.  Otherwise, the raw files
 will be difficult to read in the browser or on the command line, and changes
 will be harder to review.
+
+### Blank Lines Between Options
+
+Insert blank lines between different options so that the options will be
+visually separated.
 
 ### Blank Lines Between Options
 
